@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on HTML projects
 - 📫 How to reach me Discord: @briged Email: biggiehampster@gmail.com Spacehey: Briged
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: They/Them
 
 <!---
 BrigedMcCarthy/BrigedMcCarthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
