@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML/CSS and the Source™ engine
 - 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on HTML projects
-- 📫 How to reach me Discord: @biggiehampster Email: biggiehampster@gmail.com
+- 📫 How to reach me Discord: @biggiehampster Email: briged.debug@brigeds-site.com
 - 😄 Pronouns: They/Them
 
 <!---
